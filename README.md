@@ -8,10 +8,9 @@ I've built and run CI/CD pipelines and cloud infrastructure since 2017, at Accen
 
 ## Projects
 
+- **[abiso](https://github.com/eaarrll/abiso)**: last-mile disaster-alert relay for Philippine barangays. It narrows PAGASA's province-wide warnings down to the exposed barangays, sends plain-language SMS that fit in one segment, tracks replies, and escalates to the municipal DRRMO when nobody answers. Python, Docker, Terraform on Azure, and a GitHub Actions pipeline.
 - **[infra-status-dashboard](https://github.com/eaarrll/infra-status-dashboard)**: answers "is it us or them?" during an incident. It shows 13 vendor status pages (AWS, Cloudflare, GitHub, Datadog and more) on one screen and counts only incidents that are still open. [Live demo](https://infra-status-dashboard.vercel.app)
 - **[manila-outages](https://github.com/eaarrll/manila-outages)**: tracks scheduled power and water interruptions in Metro Manila. An Android app with a GitHub Actions pipeline that builds and signs the release bundle, with the Play Store upload step ready to switch on.
-
-**Currently building:** *Abiso*, a last-mile disaster-alert relay for Philippine barangays. It takes the PAGASA CAP feed, works out which barangays are affected using NOAH hazard maps, and sends SMS alerts in the residents' language. It tracks acknowledgments and escalates to a human when nobody replies.
 
 ## Toolbox
 
