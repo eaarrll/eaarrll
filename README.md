@@ -1,10 +1,12 @@
 # Earl Martin Sioson
 
-**Senior DevOps & Cloud Engineer** · Azure · AWS · Kubernetes · Terraform · Philippines
+**Senior DevOps Engineer** · AWS · Azure · Kubernetes · Terraform · Metro Manila, Philippines
 
-I've built and run CI/CD pipelines and cloud infrastructure since 2017, at Accenture, Home Credit, Safeway Philtech (Albertsons), Asurion and 3Cloud. That includes moving 150+ apps to AKS, setting up landing zones and running 24/7 on-call. Lately I use AI agents to take over the repetitive ops work: incident write-ups, release checks, CI failure triage, and guardrails that keep an agent from doing anything I wouldn't do myself.
+I have 8+ years of experience building CI/CD, cloud infrastructure and operational automation on AWS and Azure, at Accenture, Home Credit, Safeway Philtech (Albertsons), Asurion, 3Cloud and now ConnectOS. At ConnectOS I support two enterprise clients in parallel, owning production releases, incident investigation, security hardening and cost work. Highlights include cutting AWS spend ~30% (~$180K a year), cutting release cycle time ~40%, and migrating 150+ apps to AKS with zero downtime.
 
-**Open to DevOps, Platform and SRE roles from January 2027**, remote or Metro Manila.
+Lately I build AI agents that take over manual ops work: an incident-triage agent for a ServiceNow TechOps queue, an Azure AI Foundry tagging agent, and Claude Code + MCP automation for releases and code reviews.
+
+**Open to Senior DevOps, Platform and SRE roles from January 2027**, remote, hybrid or with relocation.
 
 ## Projects
 
@@ -16,13 +18,15 @@ I've built and run CI/CD pipelines and cloud infrastructure since 2017, at Accen
 
 | | |
 |---|---|
-| **Cloud** | Azure (AKS, App Service, APIM, Azure DevOps), AWS (EKS, Lambda, CloudFormation), GCP |
-| **IaC & config** | Terraform, Bicep, ARM, CloudFormation, Ansible |
-| **CI/CD** | Azure DevOps, GitHub Actions, Jenkins |
-| **Containers** | Kubernetes, Helm, Docker |
-| **Observability** | Datadog, Prometheus, Grafana, ELK |
-| **AI for ops** | Claude Code (skills, hooks, MCP), headless agents in CI |
-| **Languages** | Python, Bash, PowerShell, TypeScript |
+| **AI & agentic ops** | Claude Code, MCP, Azure AI Foundry Agents, FastAPI, agentic workflows |
+| **CI/CD** | GitHub Actions, Azure DevOps Pipelines (Classic and YAML), Jenkins, GitLab CI |
+| **Containers & IaC** | Docker, Kubernetes (AKS, EKS), Helm, Terraform, Bicep, ARM, Ansible |
+| **AWS** | Lambda, API Gateway, DynamoDB, S3, EC2, EKS, CloudFront, Route 53, IAM |
+| **Azure** | AKS, App Services, Key Vault, VNets, Landing Zones, Azure Monitor, Log Analytics |
+| **Security** | GitHub OIDC, least-privilege IAM/RBAC, Key Vault, AWS Secrets Manager, AWS and Cloudflare WAF |
+| **Observability** | Datadog, Prometheus, Grafana, Loki, CloudWatch, Azure Monitor, ELK |
+| **Scripting** | PowerShell, Python, Bash, Azure CLI, AWS CLI |
+| **Delivery** | ServiceNow, Jira, Confluence, CAB/change management, RCAs and runbooks |
 
 ## Certifications
 
