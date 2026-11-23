@@ -30,4 +30,4 @@ Microsoft AZ-400 (DevOps Engineer Expert) · AZ-104 · AZ-900 · AWS SAA-C03 in 
 
 ## Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/earl-martin-sioson/) · [Portfolio](https://portfolio-eaarrlls-projects.vercel.app)
+[LinkedIn](https://www.linkedin.com/in/earl-martin-sioson/) · [Portfolio](https://earl-sioson-devops-engineer.vercel.app)
