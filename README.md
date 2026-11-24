@@ -2,7 +2,7 @@
 
 **Senior DevOps Engineer** · AWS · Azure · Kubernetes · Terraform · Metro Manila, Philippines
 
-I have 8+ years of experience building CI/CD, cloud infrastructure and operational automation on AWS and Azure, at Accenture, Home Credit, Safeway Philtech (Albertsons), Asurion, 3Cloud and now ConnectOS. At ConnectOS I support two enterprise clients in parallel, owning production releases, incident investigation, security hardening and cost work. Highlights include cutting AWS spend ~30% (~$180K a year), cutting release cycle time ~40%, and migrating 150+ apps to AKS with zero downtime.
+I have 8+ years of experience building CI/CD, cloud infrastructure and operational automation on AWS and Azure, at Accenture, Home Credit, Safeway Philtech (Albertsons), Asurion, 3Cloud and now ConnectOS. At ConnectOS I support two enterprise clients in parallel, owning production releases, incident investigation, security hardening and cost work. Highlights include cutting AWS spend \~30% (\~$180K a year), cutting release cycle time \~40%, and migrating 150+ apps to AKS with zero downtime.
 
 Lately I build AI agents that take over manual ops work: an incident-triage agent for a ServiceNow TechOps queue, an Azure AI Foundry tagging agent, and Claude Code + MCP automation for releases and code reviews.
 
